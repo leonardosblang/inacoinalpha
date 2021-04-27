@@ -8,7 +8,7 @@ This is the source code of the Inacoin Cryptocurrency.
   <li>Solidity</ li>
 </ul>
 
-## Network Information :space_invader:
+## Deploy Information :space_invader:
 <p align="center">
   <img height="520" src="img/info.PNG" />
 </p>
