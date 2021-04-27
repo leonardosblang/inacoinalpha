@@ -1,1 +1,1 @@
-## Source code of the Inacoin cryptocurrency (alpha version).
+## Source code of the Inacoin cryptocurrency (alpha version)
